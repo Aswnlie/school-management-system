@@ -71,9 +71,9 @@ Four tables:
 
 ## Screenshots
 
-<!-- Add 2-3 screenshots of the GUI here, for example:
-![Students tab](screenshots/students.png)
--->
+![Students tab](screenshots/screenshot1.png)
+![Teacher edit](screenshots/screenshot2.png)
+![Registration edit](screenshots/screenshot3.png)
 
 ## What I learned
 
